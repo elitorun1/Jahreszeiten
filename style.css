@@ -1,0 +1,15 @@
+.footer {
+    display: grid;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    width: 500%;
+    background-color: #fafafa;
+    color: rgb(0, 0, 0);
+}
+
+.card{
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+}
